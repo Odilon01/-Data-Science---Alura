@@ -1,2 +1,2 @@
-# -Data-Science---Alura
+# -Data Science Alura
 Curso - Data Science - Alura
